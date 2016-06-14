@@ -1,0 +1,6 @@
+Codigo realizado para prueba de grability
+Realizado en android studio 
+Funcionamiento:
+Click sobre los items en app disponibles para que esta muestre el resumen
+Para ver categorias se debe pulsar la opccion categorias en el menu.
+Funciona tanto Offline como Online la aplicaicon almacenadno el json en un file y descargando las imagenes durante su muestra.
