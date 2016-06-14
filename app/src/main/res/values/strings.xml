@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Test Grability</string>
+    <string name="Descargando">Espere un momento , estamos descargando la información nescesaria\n</string>
+    <string name="fallo_internet">Revise su conexion a internet</string>
+    <string name="caragando">Cargando...</string>
+    <string name="sin_internet">No hay conexión a internet , ni registros</string>
+    <string name="sin_internet_error">ERROR</string>
+    <string name="ex_img">.png</string>
+    <string name="summary">Summary</string>
+    <string name="costo">Costo</string>
+    <string name="autor">Autor</string>
+    <string name="id_entry">Id</string>
+    <string name="bundle_entry">Bundle</string>x
+    <string name="id_extra">position</string>
+    <string name="categorias">Categorias</string>
+    <string name="resumen_app">Resumen App</string>
+    <string name="apps">Apps Disponibles</string>
+
+</resources>
