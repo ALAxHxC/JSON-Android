@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Test Grability</string>
+    <string name="app_name">Test AppleJson</string>
     <string name="Descargando">Espere un momento , estamos descargando la información nescesaria\n</string>
     <string name="fallo_internet">Revise su conexion a internet</string>
     <string name="caragando">Cargando...</string>

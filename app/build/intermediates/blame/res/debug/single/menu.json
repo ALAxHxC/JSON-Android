@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Daniel\\Documents\\Trabajo\\Prueba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cateogrias.xml",
         "source": "C:\\Users\\Daniel\\Documents\\Trabajo\\Prueba\\app\\src\\main\\res\\menu\\menu_cateogrias.xml"
+    },
+    {
+        "merged": "C:\\Users\\Daniel\\Documents\\GitHub\\JsonApple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cateogrias.xml",
+        "source": "C:\\Users\\Daniel\\Documents\\GitHub\\JsonApple\\app\\src\\main\\res\\menu\\menu_cateogrias.xml"
     }
 ]
